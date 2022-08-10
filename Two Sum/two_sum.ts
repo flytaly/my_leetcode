@@ -8,7 +8,7 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 */
 
-function twoSum(nums: number[], target: number): number[] {
+function twoSumV1(nums: number[], target: number): number[] {
     const numMap: Record<number, number> = {};
 
     nums.forEach((n) => (numMap[n] = (numMap[n] || 0) + 1));
@@ -19,6 +19,19 @@ function twoSum(nums: number[], target: number): number[] {
         numMap[n1]--;
         if (numMap[n2] > 0) return [i, nums.findIndex((n, idx) => idx != i && n == n2)];
         continue;
+    }
+
+    return [0, 0];
+}
+
+// V2: less iterations
+function twoSum(nums: number[], target: number): number[] {
+    const indexMap: Record<number, number> = {};
+
+    for (let i = 0; i < nums.length; i++) {
+        const diff = target - nums[i];
+        if (indexMap[diff] !== undefined) return [indexMap[diff], i];
+        indexMap[nums[i]] = i;
     }
 
     return [0, 0];
