@@ -28,37 +28,30 @@ n == height.length
 
 package container_with_most_water
 
-type Line struct {
-	h int
-	i int
+func min(x, y int) int {
+	if x < y {
+		return x
+	}
+	return y
 }
 
 func maxArea(height []int) int {
-	lines := []Line{{height[0], 0}}
 	result := 0
-
-	for i := 1; i < len(height); i++ {
-		h := height[i]
-
-		for _, l := range lines {
-			minH := l.h
-			if minH > h {
-				minH = h
-			}
-			a := minH * (i - l.i)
-
-			if a > result {
-				result = a
-			}
-
+	left := 0
+	right := len(height) - 1
+	length := right - left
+	for ; length > 0; length = right - left {
+		width := min(height[left], height[right])
+		area := width * length
+		if area > result {
+			result = area
 		}
-
-		length := len(lines)
-		if lines[length-1].h < h {
-			lines = append(lines, Line{h, i})
+		if height[left] < height[right] {
+			left += 1
+		} else {
+			right -= 1
 		}
-
 	}
-	// fmt.Println(lines)
+
 	return result
 }
