@@ -8,4 +8,5 @@
 -   100_same_tree
 -   104_maximum_depth_of_binary_tree
 -   139_word_break
+-   226_invert_binary_tree
 -   435_non-overlapping_intervals
