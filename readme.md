@@ -12,4 +12,5 @@
 -   217_contains_duplicate
 -   219_contains_duplicate_II
 -   226_invert_binary_tree
+-   387_first_unique_character
 -   435_non-overlapping_intervals
