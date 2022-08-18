@@ -18,3 +18,4 @@
 -   387_first_unique_character
 -   435_non-overlapping_intervals
 -   804_unique_morse_code_words
+-   1338_reduce_array_size_to_the_half
