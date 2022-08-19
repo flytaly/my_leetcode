@@ -11,6 +11,7 @@
 -   121_best_time_to_buy_and_sell_stock
 -   139_word_break
 -   152_maximum_product_subarray
+-   153_find_minimum_in_rotated_sorted_array
 -   217_contains_duplicate
 -   219_contains_duplicate_II
 -   226_invert_binary_tree
