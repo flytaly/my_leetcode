@@ -21,4 +21,5 @@
 -   435_non-overlapping_intervals
 -   659_split_array_into_consecutive_subsequences
 -   804_unique_morse_code_words
+-   871_minimum_number_of_refueling_stops
 -   1338_reduce_array_size_to_the_half
