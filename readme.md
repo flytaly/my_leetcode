@@ -3,6 +3,7 @@
 -   001_two_sum
 -   011_container_with_most_water
 -   030_substring_concatenation
+-   033_search_in_rotated_sorted_array
 -   053_maximum_subarray
 -   056_merge_intervals
 -   057_insert_interval
