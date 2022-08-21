@@ -6,6 +6,7 @@
 -   033_search_in_rotated_sorted_array
 -   053_maximum_subarray
 -   056_merge_intervals
+-   015_3sum
 -   057_insert_interval
 -   100_same_tree
 -   104_maximum_depth_of_binary_tree
