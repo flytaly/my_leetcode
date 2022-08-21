@@ -1,6 +1,9 @@
 package threeSum
 
-import "sort"
+import (
+	"math"
+	"sort"
+)
 
 func threeSum(nums []int) [][]int {
 	sort.Slice(nums, func(i, j int) bool { return nums[i] < nums[j] })
@@ -20,23 +23,28 @@ func threeSum(nums []int) [][]int {
 			continue
 		}
 		numMap[first] -= 1
-		usedNums := map[int]int{}
+		prev := math.MinInt
 		for ii := len(nums) - 1; ii > i; ii-- { // loop over numbers from the end
 			last := nums[ii]
 			if last < 0 {
 				break
 			}
-			if usedNums[last] > 0 || numMap[last] <= 0 {
+			if numMap[last] < 0 {
 				continue
 			}
-			usedNums[last]++
-
 			diff := -last - first // the middle number
-			if numMap[diff]-usedNums[diff] <= 0 {
+			if diff == prev {
 				continue
 			}
-			usedNums[diff]++
-			result = append(result, []int{first, diff, last})
+			if diff > last {
+				break
+			}
+			numMap[last]--
+			if numMap[diff] > 0 {
+				prev = diff
+				result = append(result, []int{first, diff, last})
+			}
+			numMap[last]++
 		}
 		numMap[first] = 0
 	}
