@@ -1,6 +1,27 @@
 package two_sum_2
 
+// with two pointers O(n)
 func twoSum(numbers []int, target int) []int {
+	left := 0
+	right := len(numbers) - 1
+
+	for left < right {
+		sum := numbers[left] + numbers[right]
+		if sum == target {
+			return []int{left + 1, right + 1}
+		}
+		if sum > target {
+			right--
+			continue
+		}
+		left++
+	}
+
+	return []int{}
+}
+
+// with binary search O(n*log(n))
+func twoSumBinSearch(numbers []int, target int) []int {
 	for i, n1 := range numbers {
 		n2 := target - n1
 		idx := binarySearch(numbers, n2, i+1)
