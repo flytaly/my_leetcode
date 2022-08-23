@@ -8,6 +8,7 @@
 -   056_merge_intervals
 -   015_3sum
 -   057_insert_interval
+-   070_climbing_stairs
 -   100_same_tree
 -   104_maximum_depth_of_binary_tree
 -   121_best_time_to_buy_and_sell_stock
