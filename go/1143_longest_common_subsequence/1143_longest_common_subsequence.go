@@ -20,45 +20,66 @@ func max(a, b int) int {
 
 var memo [][]int
 
-func lcsMemo(s1, s2 string, i1, i2 int) int {
-	if i1 >= len(s1) || i2 >= len(s2) {
+// recursion with memoization
+func lcsMemo(s1, s2 string, i, j int) int {
+	if i >= len(s1) || j >= len(s2) {
 		return 0
 	}
 
-	if s1[i1] == s2[i2] {
-		m := 1 + lcsMemo(s1, s2, i1+1, i2+1)
-		memo[i1][i2] = m
+	if s1[i] == s2[j] {
+		m := 1 + lcsMemo(s1, s2, i+1, j+1)
+		memo[i][j] = m
 		return m
 	}
 
-	l := memo[i1+1][i2]
-	r := memo[i1][i2+1]
+	l := memo[i+1][j]
+	r := memo[i][j+1]
 
 	if l == -1 {
-		l = lcsMemo(s1, s2, i1+1, i2)
+		l = lcsMemo(s1, s2, i+1, j)
 	}
 	if r == -1 {
-		r = lcsMemo(s1, s2, i1, i2+1)
+		r = lcsMemo(s1, s2, i, j+1)
 
 	}
 
 	m := max(l, r)
 
-	memo[i1][i2] = m
+	memo[i][j] = m
 
 	return m
 }
 
+// DP
+func lcsDP(s1, s2 string) int {
+	memo := make([][]int, len(s1)+1)
+	for i := range memo {
+		memo[i] = make([]int, len(s2)+1)
+	}
+
+	for i := 0; i < len(s1); i++ {
+		for j := 0; j < len(s2); j++ {
+			if s1[i] == s2[j] {
+				memo[i+1][j+1] = 1 + memo[i][j]
+				continue
+			}
+			memo[i+1][j+1] = max(memo[i][j+1], memo[i+1][j])
+		}
+	}
+
+	return memo[len(s1)][len(s2)]
+}
+
 func longestCommonSubsequence(text1 string, text2 string) int {
 
-	memo = make([][]int, len(text1)+1)
+	/* memo = make([][]int, len(text1)+1)
 	for i := range memo {
 		memo[i] = make([]int, len(text2)+1)
 		for j := range memo[i] {
 			memo[i][j] = -1
 		}
 	}
-	res := lcsMemo(text1, text2, 0, 0)
+	return lcsMemo(text1, text2, 0, 0) */
 
-	return res
+	return lcsDP(text1, text2)
 }
