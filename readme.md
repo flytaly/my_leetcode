@@ -17,6 +17,7 @@
 -   0153_find_minimum_in_rotated_sorted_array
 -   0167_two_sum_II
 -   0198_house_robber
+-   0213_house_robber_II
 -   0217_contains_duplicate
 -   0219_contains_duplicate_II
 -   0226_invert_binary_tree
