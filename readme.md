@@ -13,6 +13,7 @@
 -   0104_maximum_depth_of_binary_tree
 -   0121_best_time_to_buy_and_sell_stock
 -   0139_word_break
+-   0141_linked_list_cycle
 -   0152_maximum_product_subarray
 -   0153_find_minimum_in_rotated_sorted_array
 -   0167_two_sum_II
