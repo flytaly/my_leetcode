@@ -1,4 +1,4 @@
-package reverselinkedlist
+package mergeksortedlists
 
 import (
 	"reflect"
@@ -6,6 +6,9 @@ import (
 )
 
 func sliceToList(vals []int) *ListNode {
+	if len(vals) == 0 {
+		return nil
+	}
 	head := ListNode{Val: vals[0], Next: nil}
 	last := &head
 
@@ -26,17 +29,23 @@ func listToSlice(head *ListNode) (res []int) {
 
 func TestReverseList(t *testing.T) {
 	tests := []struct {
-		nodeValues []int
-		want       []int
+		lists [][]int
+		want  []int
 	}{
-		{nodeValues: []int{1, 2, 3, 4, 5}, want: []int{5, 4, 3, 2, 1}},
+		{lists: [][]int{{1, 4, 5}, {1, 3, 4}, {2, 6}}, want: []int{1, 1, 2, 3, 4, 4, 5, 6}},
+		{lists: [][]int{}, want: nil},
+		{lists: [][]int{{}}, want: nil},
 	}
 
 	for _, tt := range tests {
-		head := sliceToList(tt.nodeValues)
-		got := listToSlice(reverseList(head))
+		ll := []*ListNode{}
+		for _, l := range tt.lists {
+			ll = append(ll, sliceToList(l))
+		}
+		res := mergeKLists(ll)
+		got := listToSlice(res)
 		if !reflect.DeepEqual(got, tt.want) {
-			t.Errorf("%d: got %d, want %d", tt.nodeValues, got, tt.want)
+			t.Errorf("%d: got %d, want %d", tt.lists, got, tt.want)
 		}
 	}
 }
