@@ -3,6 +3,7 @@
 -   0001_two_sum
 -   0011_container_with_most_water
 -   0015_3sum
+-   0019_remove_nth_node_from_end_of_list
 -   0021_merge_two_sorted_lists
 -   0023_merge_k_sorted_lists
 -   0030_substring_concatenation
