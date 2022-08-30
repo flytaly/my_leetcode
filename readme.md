@@ -17,6 +17,7 @@
 -   0121_best_time_to_buy_and_sell_stock
 -   0139_word_break
 -   0141_linked_list_cycle
+-   0143_reorder_list
 -   0152_maximum_product_subarray
 -   0153_find_minimum_in_rotated_sorted_array
 -   0167_two_sum_II
@@ -34,5 +35,6 @@
 -   0659_split_array_into_consecutive_subsequences
 -   0804_unique_morse_code_words
 -   0871_minimum_number_of_refueling_stops
+-   0876_middle_of_the_linked_list
 -   0953_verifying_an_alien_dictionary
 -   1338_reduce_array_size_to_the_half
