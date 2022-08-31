@@ -10,6 +10,7 @@
 -   0023_merge_k_sorted_lists
 -   0030_substring_concatenation
 -   0033_search_in_rotated_sorted_array
+-   0039_combination_sum
 -   0042_trapping_rain_water
 -   0053_maximum_subarray
 -   0056_merge_intervals
