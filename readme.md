@@ -13,11 +13,12 @@
 -   0039_combination_sum
 -   0042_trapping_rain_water
 -   0053_maximum_subarray
+-   0055_jump_game
 -   0056_merge_intervals
 -   0057_insert_interval
--   062_unique_paths
+-   0062_unique_paths
 -   0070_climbing_stairs
--   091_decode_ways
+-   0091_decode_ways
 -   0100_same_tree
 -   0104_maximum_depth_of_binary_tree
 -   0121_best_time_to_buy_and_sell_stock
