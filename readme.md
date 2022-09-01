@@ -16,6 +16,7 @@
 -   0056_merge_intervals
 -   0057_insert_interval
 -   0070_climbing_stairs
+-   091_decode_ways
 -   0100_same_tree
 -   0104_maximum_depth_of_binary_tree
 -   0121_best_time_to_buy_and_sell_stock
