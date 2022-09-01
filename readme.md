@@ -15,6 +15,7 @@
 -   0053_maximum_subarray
 -   0056_merge_intervals
 -   0057_insert_interval
+-   062_unique_paths
 -   0070_climbing_stairs
 -   091_decode_ways
 -   0100_same_tree
