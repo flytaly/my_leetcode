@@ -18,6 +18,7 @@
 -   0057_insert_interval
 -   0062_unique_paths
 -   0070_climbing_stairs
+-   0073_set_matrix_zeroes
 -   0091_decode_ways
 -   0100_same_tree
 -   0104_maximum_depth_of_binary_tree
