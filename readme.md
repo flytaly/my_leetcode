@@ -13,6 +13,7 @@
 -   0039_combination_sum
 -   0042_trapping_rain_water
 -   0053_maximum_subarray
+-   0054_spiral_matrix
 -   0055_jump_game
 -   0056_merge_intervals
 -   0057_insert_interval
