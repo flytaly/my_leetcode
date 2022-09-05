@@ -30,6 +30,7 @@
 -   0152_maximum_product_subarray
 -   0153_find_minimum_in_rotated_sorted_array
 -   0167_two_sum_II
+-   0191_number_of_1_bits
 -   0198_house_robber
 -   0206_reverse_linked_list
 -   0213_house_robber_II
