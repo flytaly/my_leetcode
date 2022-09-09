@@ -12,6 +12,7 @@
 -   0033_search_in_rotated_sorted_array
 -   0039_combination_sum
 -   0042_trapping_rain_water
+-   0048_rotate_image
 -   0053_maximum_subarray
 -   0054_spiral_matrix
 -   0055_jump_game
