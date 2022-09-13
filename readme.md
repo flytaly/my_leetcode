@@ -36,6 +36,7 @@
 -   0191_number_of_1_bits
 -   0198_house_robber
 -   0206_reverse_linked_list
+-   0207_course_schedule
 -   0213_house_robber_II
 -   0217_contains_duplicate
 -   0219_contains_duplicate_II
