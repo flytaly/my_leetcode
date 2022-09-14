@@ -2,55 +2,57 @@
 
 ## Go
 
--   0001_two_sum
--   0011_container_with_most_water
--   0015_3sum
--   0019_remove_nth_node_from_end_of_list
--   0021_merge_two_sorted_lists
--   0023_merge_k_sorted_lists
--   0030_substring_concatenation
--   0033_search_in_rotated_sorted_array
--   0039_combination_sum
--   0042_trapping_rain_water
--   0048_rotate_image
--   0053_maximum_subarray
--   0054_spiral_matrix
--   0055_jump_game
--   0056_merge_intervals
--   0057_insert_interval
--   0062_unique_paths
--   0070_climbing_stairs
--   0073_set_matrix_zeroes
--   0091_decode_ways
--   0100_same_tree
--   0104_maximum_depth_of_binary_tree
--   0121_best_time_to_buy_and_sell_stock
--   0133_clone_graph
--   0139_word_break
--   0141_linked_list_cycle
--   0143_reorder_list
--   0152_maximum_product_subarray
--   0153_find_minimum_in_rotated_sorted_array
--   0167_two_sum_II
--   0190_reverse_bits
--   0191_number_of_1_bits
--   0198_house_robber
--   0206_reverse_linked_list
--   0207_course_schedule
--   0213_house_robber_II
--   0217_contains_duplicate
--   0219_contains_duplicate_II
--   0226_invert_binary_tree
--   0238_product_of_array_except_self
--   0268_missing_number
--   0322_coin_change
--   0338_counting_bits
--   0371_sum_of_two_integers
--   0387_first_unique_character
--   0435_non-overlapping_intervals
--   0659_split_array_into_consecutive_subsequences
--   0804_unique_morse_code_words
--   0871_minimum_number_of_refueling_stops
--   0876_middle_of_the_linked_list
--   0953_verifying_an_alien_dictionary
--   1338_reduce_array_size_to_the_half
+| №    | Name                                                                                                                  | Topic                                   |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                     | Array, Hash Table                       |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                 | Array, Two Pointers                     |
+| 0015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                                          | Array, Two Pointers                     |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                   | Linked List, Two Pointers               |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                       | Linked List, Recursion                  |
+| 0023 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                           | Linked List, Heap (Priority Queue)      |
+| 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | String, Hash Table                      |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                       | Array, Binary Search                    |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                     | Array, Backtracking                     |
+| 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                             | Array,Two Pointers, Dynamic Programming |
+| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                           | Matrix                                  |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                   | Array, Dynamic Programming              |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                         | Matrix                                  |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                 | Dynamic Programming                     |
+| 0056 | Merge Intervals                                                                                                       |                                         |
+| 0057 | Insert Interval                                                                                                       |                                         |
+| 0062 | Unique Paths                                                                                                          |                                         |
+| 0070 | Climbing Stairs                                                                                                       |                                         |
+| 0073 | Set Matrix Zeroes                                                                                                     |                                         |
+| 0091 | Decode Ways                                                                                                           |                                         |
+| 0100 | Same Tree                                                                                                             |                                         |
+| 0104 | Maximum Depth of Binary Tree                                                                                          |                                         |
+| 0121 | Best Time to Buy and Sell Stock                                                                                       |                                         |
+| 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                             | Graph                                   |
+| 0139 | Word Break                                                                                                            |                                         |
+| 0141 | Linked List Cycle                                                                                                     |                                         |
+| 0143 | Reorder List                                                                                                          |                                         |
+| 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                   | Array, Dynamic Programming              |
+| 0153 | Find Minimum In Rotated Sorted Array                                                                                  |                                         |
+| 0167 | Two Sum II                                                                                                            |                                         |
+| 0190 | Reverse Bits                                                                                                          |                                         |
+| 0191 | Number of 1_bits                                                                                                      |                                         |
+| 0198 | House Robber                                                                                                          |                                         |
+| 0206 | Reverse Linked List                                                                                                   |                                         |
+| 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                     | Graph, Dynamic Programming, DFS         |
+| 0213 | House Robber II                                                                                                       |                                         |
+| 0217 | Contains Duplicate                                                                                                    |                                         |
+| 0219 | Contains Duplicate II                                                                                                 |                                         |
+| 0226 | Invert Binary Tree                                                                                                    |                                         |
+| 0238 | Product of Array Except Self                                                                                          |                                         |
+| 0268 | Missing Number                                                                                                        |                                         |
+| 0322 | Coin Change                                                                                                           |                                         |
+| 0338 | Counting Bits                                                                                                         |                                         |
+| 0371 | Sum of Two Integers                                                                                                   |                                         |
+| 0387 | First Unique Character                                                                                                |                                         |
+| 0435 | Non-overlapping Intervals                                                                                             |                                         |
+| 0659 | Split Array Into Consecutive Subsequences                                                                             |                                         |
+| 0804 | Unique Morse Code Words                                                                                               |                                         |
+| 0871 | Minimum Number of Refueling Stops                                                                                     |                                         |
+| 0876 | Middle of the Linked List                                                                                             |                                         |
+| 0953 | Verifying an Alien Dictionary                                                                                         |                                         |
+| 1338 | Reduce Array Size to the Half                                                                                         |                                         |
