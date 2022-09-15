@@ -37,7 +37,6 @@
 | 0190 | Reverse Bits                                                                                                          |                                         |
 | 0191 | Number of 1_bits                                                                                                      |                                         |
 | 0198 | House Robber                                                                                                          |                                         |
-| 0206 | Reverse Linked List                                                                                                   |                                         |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                     | Graph, Dynamic Programming, DFS         |
 | 0213 | House Robber II                                                                                                       |                                         |
 | 0217 | Contains Duplicate                                                                                                    |                                         |
@@ -49,6 +48,7 @@
 | 0338 | Counting Bits                                                                                                         |                                         |
 | 0371 | Sum of Two Integers                                                                                                   |                                         |
 | 0387 | First Unique Character                                                                                                |                                         |
+| 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                             | Graph, Matrix, DFS, BFS                 |
 | 0435 | Non-overlapping Intervals                                                                                             |                                         |
 | 0659 | Split Array Into Consecutive Subsequences                                                                             |                                         |
 | 0804 | Unique Morse Code Words                                                                                               |                                         |
