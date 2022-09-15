@@ -37,6 +37,8 @@
 | 0190 | Reverse Bits                                                                                                          |                                         |
 | 0191 | Number of 1_bits                                                                                                      |                                         |
 | 0198 | House Robber                                                                                                          |                                         |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                 |                                         |
+| 0206 | Reverse Linked List                                                                                                   | Graph, Matrix, DFS, Union Find          |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                     | Graph, Dynamic Programming, DFS         |
 | 0213 | House Robber II                                                                                                       |                                         |
 | 0217 | Contains Duplicate                                                                                                    |                                         |
