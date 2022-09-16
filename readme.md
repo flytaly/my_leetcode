@@ -27,6 +27,7 @@
 | 0100 | Same Tree                                                                                                             |                                         |
 | 0104 | Maximum Depth of Binary Tree                                                                                          |                                         |
 | 0121 | Best Time to Buy and Sell Stock                                                                                       |                                         |
+| 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                           | Array, Graph, Hash Table, Union Find    |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                             | Graph                                   |
 | 0139 | Word Break                                                                                                            |                                         |
 | 0141 | Linked List Cycle                                                                                                     |                                         |
