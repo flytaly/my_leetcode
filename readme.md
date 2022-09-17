@@ -18,11 +18,12 @@
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                   | Array, Dynamic Programming              |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                         | Matrix                                  |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                 | Dynamic Programming                     |
-| 0056 | Merge Intervals                                                                                                       |                                         |
-| 0057 | Insert Interval                                                                                                       |                                         |
-| 0062 | Unique Paths                                                                                                          |                                         |
-| 0070 | Climbing Stairs                                                                                                       |                                         |
-| 0073 | Set Matrix Zeroes                                                                                                     |                                         |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                     | Interval                                |
+| 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                     | Interval                                |
+| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                           | Dynamic Programming                     |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                     | Dynamic Programming                     |
+| 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                 | Matrix                                  |
+| 0079 | [Word Search](https://leetcode.com/problems/word-search/)                                                             | Matrix, Backtracking                    |
 | 0091 | Decode Ways                                                                                                           |                                         |
 | 0100 | Same Tree                                                                                                             |                                         |
 | 0104 | Maximum Depth of Binary Tree                                                                                          |                                         |
