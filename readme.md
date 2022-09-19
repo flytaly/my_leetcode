@@ -25,15 +25,15 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Dynamic Programming                     |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           | Matrix                                  |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/)                                                                       | Matrix, Backtracking                    |
-| 0091 | Decode Ways                                                                                                                     |                                         |
-| 0100 | Same Tree                                                                                                                       |                                         |
-| 0104 | Maximum Depth of Binary Tree                                                                                                    |                                         |
-| 0121 | Best Time to Buy and Sell Stock                                                                                                 |                                         |
+| 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                       | Dynamic Programming                     |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                           | Tree, Binary Tree                       |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | Tree, Binary Tree, DFS, BFS             |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Dynamic Programming                     |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     | Array, Graph, Hash Table, Union Find    |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                       | Graph                                   |
-| 0139 | Word Break                                                                                                                      |                                         |
-| 0141 | Linked List Cycle                                                                                                               |                                         |
-| 0143 | Reorder List                                                                                                                    |                                         |
+| 0139 | [Word Break](https://leetcode.com/problems/word-break/)                                                                         | Dynamic Programming                     |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                           | Linked List, Two Pointers               |
+| 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                     | Linked List, Two Pointers               |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                             | Array, Dynamic Programming              |
 | 0153 | Find Minimum In Rotated Sorted Array                                                                                            |                                         |
 | 0167 | Two Sum II                                                                                                                      |                                         |
@@ -54,6 +54,7 @@
 | 0371 | Sum of Two Integers                                                                                                             |                                         |
 | 0387 | First Unique Character                                                                                                          |                                         |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Graph, Matrix, DFS, BFS                 |
+| 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | String, Sliding Window                  |
 | 0435 | Non-overlapping Intervals                                                                                                       |                                         |
 | 0659 | Split Array Into Consecutive Subsequences                                                                                       |                                         |
 | 0804 | Unique Morse Code Words                                                                                                         |                                         |
