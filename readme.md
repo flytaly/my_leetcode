@@ -24,6 +24,7 @@
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                     | Dynamic Programming                     |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Dynamic Programming                     |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           | Matrix                                  |
+| 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | String, Sliding Window                  |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/)                                                                       | Matrix, Backtracking                    |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                       | Dynamic Programming                     |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                           | Tree, Binary Tree                       |
