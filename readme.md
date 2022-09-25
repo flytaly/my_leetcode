@@ -36,19 +36,20 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                           | Linked List, Two Pointers               |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                     | Linked List, Two Pointers               |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                             | Array, Dynamic Programming              |
-| 0153 | Find Minimum In Rotated Sorted Array                                                                                            |                                         |
-| 0167 | Two Sum II                                                                                                                      |                                         |
-| 0190 | Reverse Bits                                                                                                                    |                                         |
-| 0191 | Number of 1_bits                                                                                                                |                                         |
-| 0198 | House Robber                                                                                                                    |                                         |
-| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           |                                         |
-| 0206 | Reverse Linked List                                                                                                             | Graph, Matrix, DFS, Union Find          |
+| 0153 | [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Array, Binary Search                    |
+| 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers, Binary Search      |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     | Divide and Conquer, Bit Manipulation    |
+| 0191 | [Number of 1_bits](https://leetcode.com/problems/number-of-1-bits/)                                                             | Divide and Conquer, Bit Manipulation    |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber/)                                                                     | Array, Dynamic Programming              |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Matrix, Union Find, DFS, BFS            |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Linked List, Recursion                  |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                               | Graph, Dynamic Programming, DFS         |
-| 0213 | House Robber II                                                                                                                 |                                         |
-| 0217 | Contains Duplicate                                                                                                              |                                         |
-| 0219 | Contains Duplicate II                                                                                                           |                                         |
-| 0226 | Invert Binary Tree                                                                                                              |                                         |
-| 0238 | Product of Array Except Self                                                                                                    |                                         |
+| 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                               | Array, Dynamic Programming              |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | Array, Hash Table, Sorting              |
+| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Array, Hash Table, Sliding Window       |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | Tree, BFS, DFS, Binary Tree             |
+| 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Array, Prefix Sum                       |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Hash Table, String, Sorting             |
 | 0268 | Missing Number                                                                                                                  |                                         |
 | 0322 | Coin Change                                                                                                                     |                                         |
 | 0338 | Counting Bits                                                                                                                   |                                         |
