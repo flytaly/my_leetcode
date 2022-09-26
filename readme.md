@@ -16,6 +16,7 @@
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                               | Array, Backtracking                     |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       | Array,Two Pointers, Dynamic Programming |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | Matrix                                  |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | String, Hash Table, Sorting             |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Array, Dynamic Programming              |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                   | Matrix                                  |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                           | Dynamic Programming                     |
