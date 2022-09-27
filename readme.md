@@ -9,6 +9,7 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Array, Two Pointers                     |
 | 0015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                                                    | Array, Two Pointers                     |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Linked List, Two Pointers               |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | String, Stack                           |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Linked List, Recursion                  |
 | 0023 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                     | Linked List, Heap (Priority Queue)      |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)           | String, Hash Table                      |
