@@ -34,6 +34,7 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | Tree, Binary Tree, DFS, BFS             |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Tree, Binary Tree, BFS                  |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Dynamic Programming                     |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                     | Tree, Binary Tree, DFS                  |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | String, Two Pointers                    |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     | Array, Graph, Hash Table, Union Find    |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                       | Graph                                   |
