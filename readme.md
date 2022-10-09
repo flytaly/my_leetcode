@@ -57,6 +57,7 @@
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Array, Prefix Sum                       |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Hash Table, String, Sorting             |
 | 0268 | Missing Number                                                                                                                  |                                         |
+| 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                   | Tree, Binary Tree, BFS                  |
 | 0322 | Coin Change                                                                                                                     |                                         |
 | 0338 | Counting Bits                                                                                                                   |                                         |
 | 0371 | Sum of Two Integers                                                                                                             |                                         |
