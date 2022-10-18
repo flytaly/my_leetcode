@@ -65,6 +65,7 @@
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Graph, Matrix, DFS, BFS                 |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | String, Sliding Window                  |
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                           | Interval, Dynamic Programming, Sorting  |
+| 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)                                   | Tree, Binary Tree                       |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | String, Dynamic Programming             |
 | 0659 | Split Array Into Consecutive Subsequences                                                                                       |                                         |
 | 0804 | Unique Morse Code Words                                                                                                         |                                         |
