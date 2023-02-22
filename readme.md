@@ -73,4 +73,6 @@
 | 0871 | Minimum Number of Refueling Stops                                                                                               |                                         |
 | 0876 | Middle of the Linked List                                                                                                       |                                         |
 | 0953 | Verifying an Alien Dictionary                                                                                                   |                                         |
-| 1338 | Reduce Array Size to the Half                                                                                                   |                                         |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)               | Binary Search                           |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                         | Dynamic Programming                     |
+| 1338 | [Reduce Array Size to the Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)                                   |                                         |
