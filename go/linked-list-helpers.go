@@ -6,6 +6,9 @@ type ListNode struct {
 }
 
 func SliceToList(vals []int) *ListNode {
+	if len(vals) == 0 {
+		return nil
+	}
 	head := ListNode{Val: vals[0], Next: nil}
 	last := &head
 
@@ -18,6 +21,10 @@ func SliceToList(vals []int) *ListNode {
 }
 
 func ListToSlice(head *ListNode) (res []int) {
+	if head == nil {
+		return []int{}
+	}
+
 	for ; head != nil; head = head.Next {
 		res = append(res, head.Val)
 	}
