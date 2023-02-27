@@ -10,6 +10,7 @@
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | Binary Search                           |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | String, Dynamic Programming             |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | String                                  |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                                            |                                         |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Array, Two Pointers                     |
 | 0015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                                                    | Array, Two Pointers                     |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Linked List, Two Pointers               |
