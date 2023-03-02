@@ -14,6 +14,7 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                                            | Math                                    |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Array, Two Pointers                     |
 | 0015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                                                    | Array, Two Pointers                     |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                     | Two Pointers                            |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Linked List, Two Pointers               |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | String, Stack                           |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Linked List, Recursion                  |
