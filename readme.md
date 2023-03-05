@@ -22,6 +22,7 @@
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                            | Dynamic Programming, Backtracking       |
 | 0023 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                            | Linked List, Heap (Priority Queue)      |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | String                                  |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                              | Math                                    |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)                  | String, Hash Table                      |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                        | Array, Binary Search                    |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                      | Array, Backtracking                     |
