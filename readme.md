@@ -26,6 +26,7 @@
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)                            | String, Hash Table                      |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                  | Array, Binary Search                    |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Array, Binary Search                    |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                  | Array, Binary Search                    |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                      | Array, Hash Table, Matrix               |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                | Array, Backtracking                     |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                        | Array,Two Pointers, Dynamic Programming |
