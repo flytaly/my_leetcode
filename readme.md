@@ -21,6 +21,7 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                  | Linked List, Recursion                  |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                      | Dynamic Programming, Backtracking       |
 | 0023 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                      | Linked List, Heap (Priority Queue)      |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                  | Array                                   |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)           | String                                  |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                                        | Math                                    |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)                            | String, Hash Table                      |
