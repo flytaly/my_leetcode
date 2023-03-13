@@ -35,6 +35,7 @@
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                      | Matrix                                  |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                  | String, Hash Table, Sorting             |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens/)                                                                                              | Array, Backtracking                     |
+| 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                                        | Backtracking                            |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                              | Array, Dynamic Programming              |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                    | Matrix                                  |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                            | Dynamic Programming                     |
