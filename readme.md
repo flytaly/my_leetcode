@@ -31,6 +31,7 @@
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                  | Array, Binary Search                    |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                      | Array, Hash Table, Matrix               |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                | Array, Backtracking                     |
+| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                  | Array,Hash Table                        |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                        | Array,Two Pointers, Dynamic Programming |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                      | Matrix                                  |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                  | String, Hash Table, Sorting             |
