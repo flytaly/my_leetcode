@@ -44,6 +44,7 @@
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                | Interval                                |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                                                         | String                                  |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                      | Dynamic Programming                     |
+| 0068 | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                          | String                                  |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                | Dynamic Programming                     |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                            | Matrix                                  |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                              | String, Sliding Window                  |
