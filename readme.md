@@ -43,6 +43,7 @@
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                | Interval                                |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                | Interval                                |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                                                         | String                                  |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                                                        | Linked List                             |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                      | Dynamic Programming                     |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                              | Array                                   |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                          | String                                  |
