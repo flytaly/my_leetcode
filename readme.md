@@ -49,6 +49,7 @@
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)                                                                                 | Dynamic Programming                     |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                              | Dynamic Programming                     |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                              | Array                                   |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/description/)                                                                              |                                         |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                          | String                                  |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                | Dynamic Programming                     |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                            | Matrix                                  |
