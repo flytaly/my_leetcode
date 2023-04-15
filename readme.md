@@ -53,6 +53,7 @@
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                          | String                                  |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                | Dynamic Programming                     |
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                                                    |                                         |
+| 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/)                                                                        | Dinamic Programming                     |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                            | Matrix                                  |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                              | String, Sliding Window                  |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/)                                                                                        | Matrix, Backtracking                    |
